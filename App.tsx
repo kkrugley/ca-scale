@@ -222,7 +222,7 @@ function App() {
                     variant="accent" 
                     onClick={startProcessing} 
                     icon={<Play size={18}/>}
-                    disabled={status === ProcessingStatus.COMPLETED || !originalImageData}
+                    disabled={!originalImageData}
                  >
                    Start Retargeting
                  </Button>
