@@ -1,0 +1,5 @@
+{
+  "name": "Retarget.js - Content Aware Scaling",
+  "description": "An interactive Content-Aware Scaling (Seam Carving) application to intelligently resize images while preserving important features.",
+  "requestFramePermissions": []
+}
